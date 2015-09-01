@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">SpeechToMessaging</string>
+    <string name="youd">Your Devices Not Support Speech To Text.</string>
+    <string name="speech_prompt">Please Speech.</string>
+    <string name="text_phone">enter phone number</string>
+    <string name="text_send">Sending SMS.</string>
+    <string name="text_gen">Generic Failure to Send.</string>
+    <string name="text_noser">No Service.</string>
+    <string name="text_ernul">Null PDU.</string>
+    <string name="text_radof">Radio Off.</string>
+    <string name="text_deliver">SMS Delivered.</string>
+    <string name="text_cancel">SMS Not Delivered.</string>
+    <string name="text_prbtn">press button mic for create messages</string>
+
+</resources>

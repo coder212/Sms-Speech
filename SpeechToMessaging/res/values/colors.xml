@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="text_color">#FFFFFF</color>
+    <color name="gradien_bgmulai">#04B6E3</color>
+    <color name="gradien_bgahir">#15E5AD</color>
+    
+</resources>

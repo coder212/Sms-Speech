@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Bicara Untuk SMS</string>
+    <string name="youd">Perangkat Anda Tidak Mendukung Speech To Text.</string>
+    <string name="speech_prompt">Silakan Berbicara.</string>
+    <string name="text_phone">ketikan nomer telepon</string>
+    <string name="text_send">Kirim SMS.</string>
+    <string name="text_gen">Kesalahan Umum Ketika Mengirim.</string>
+    <string name="text_noser">Tidak Ada Jaringan.</string>
+    <string name="text_ernul">PDUnya Null.</string>
+    <string name="text_radof">Radio Off.</string>
+    <string name="text_deliver">SMS Terkirim.</string>
+    <string name="text_cancel">SMS Tidak Terkirim.</string>
+    <string name="text_prbtn">Tekan Tombol Mik Untuk Membuat Sms</string>
+    
+</resources>
